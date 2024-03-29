@@ -1,0 +1,10 @@
+E:\数据库技术与应用\Lab1-9.1\Lab1-9.1\bin\Debug\Lab1-9.1.exe.config
+E:\数据库技术与应用\Lab1-9.1\Lab1-9.1\bin\Debug\Lab1-9.1.exe
+E:\数据库技术与应用\Lab1-9.1\Lab1-9.1\bin\Debug\Lab1-9.1.pdb
+E:\数据库技术与应用\Lab1-9.1\Lab1-9.1\obj\Debug\Lab1-9.1.csproj.AssemblyReference.cache
+E:\数据库技术与应用\Lab1-9.1\Lab1-9.1\obj\Debug\Lab1_9._1.Form1.resources
+E:\数据库技术与应用\Lab1-9.1\Lab1-9.1\obj\Debug\Lab1_9._1.Properties.Resources.resources
+E:\数据库技术与应用\Lab1-9.1\Lab1-9.1\obj\Debug\Lab1-9.1.csproj.GenerateResource.cache
+E:\数据库技术与应用\Lab1-9.1\Lab1-9.1\obj\Debug\Lab1-9.1.csproj.CoreCompileInputs.cache
+E:\数据库技术与应用\Lab1-9.1\Lab1-9.1\obj\Debug\Lab1-9.1.exe
+E:\数据库技术与应用\Lab1-9.1\Lab1-9.1\obj\Debug\Lab1-9.1.pdb
